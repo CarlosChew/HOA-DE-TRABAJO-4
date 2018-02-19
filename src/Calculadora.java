@@ -1,5 +1,11 @@
+/* CALCULADORA POSTFIX
+ * UNIVERSIDAD DEL VALLE DE GUATEMALA
+ * CARLOS CHEW - 17507
+ * OTTO TRUJILLO - 17189
+*/
 
-public class Calculadora {
+
+public interface Calculadora {
 	
 
 }
